@@ -3,7 +3,7 @@ import TodoList from "./components/TodoList";
 import { Routes, Route } from 'react-router-dom';
 import FavoritesPage from './pages/FavoritesPage';
 import Header from './components/Header';
-import LogInPage from './pages/LogInPage';
+import LogInPage from './pages/logInPage';
 import Registration from './pages/Registration';
 
 // Function to preserve list upon refresh. Works with local storage.--sb
